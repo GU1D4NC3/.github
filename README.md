@@ -18,3 +18,19 @@ This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 
 ## AI Model
 
+
+## 🚩Team Member
+👩🏻‍💻 정희재(Heejae Jeong) - Mobile Engineer
+<br/>
+👨🏻‍💻 이건명(Kunmyung Lee) - Server Engineer
+<br/>
+👨‍💻 한지환(Jihwan Han) - AI Model Engineer
+<br/>
+👩‍🚀 황가원(Gawon Hwang) - Designer
+<br/>
+
+## ✨Special Thanks
+- 인하대학교 병원(Inha University Hospital)
+- 삼성서울병원(Samsung Medical Center)
+- 한국위기임신출산지원센터 (kcpscenter, https://www.kcpscenter.org/)
+
