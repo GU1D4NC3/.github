@@ -15,7 +15,9 @@ This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 - Library: Google Auth, Google Map, Firebase, Ktor, Glide
 
 ## Server
-
+- Language: Python
+- Framework: Fastapi
+- Library: SQLalchemy, Google Vision api, JWT
 ## AI Model
 
 
