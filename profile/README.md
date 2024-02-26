@@ -19,7 +19,9 @@ This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 - Framework: Fastapi
 - Library: SQLalchemy, Google Vision api, JWT
 ## AI Model
-
+- Language: Python
+- Library: Google Cloud Vision API
+- Model: Object Detection, Image Annotation
 
 ## 🚩Team Member
 👩🏻‍💻 정희재(Heejae Jeong) - Mobile Engineer
