@@ -7,6 +7,9 @@ It provides correct information on pregnancy and sexual health through newslette
 <br/>
 This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 
+![Keepit Architecture](https://github.com/GU1D4NC3/.github/assets/47102119/66de338b-2853-45aa-9420-63b9b20da248)
+
+
 
 ## Mobile (Android)
 ### ✨Technology Stack
