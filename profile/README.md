@@ -3,9 +3,9 @@ Keep your Health, Keepit
 
 **Keepit** is the **"Health Care Application for Pregnant Women"**.
 <br/>
-It provides correct information on pregnancy and sexual health through newsletters
+1. Provides correct information on pregnancy and sexual health through newsletters
 <br/>
-and prevents the main causes of maternal deaths such as preeclampsia through effective diet feedback.
+2. Prevents the main causes of maternal deaths such as preeclampsia through effective diet feedback.
 <br/>
 This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 
