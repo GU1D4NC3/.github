@@ -31,6 +31,8 @@ This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 - Model: Object Detection, Image Annotation
 
 ## 🚩Team Member
+We are GDSC Inha!
+
 👩🏻‍💻 정희재(Heejae Jeong) - Mobile Engineer
 <br/>
 👨🏻‍💻 이건명(Kunmyung Lee) - Server Engineer
