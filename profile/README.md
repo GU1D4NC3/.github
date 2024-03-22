@@ -30,7 +30,7 @@ This helps pregnant women prepare for overall pregnancy or manage prenatal care.
 - Library: Google Cloud Vision API
 - Model: Object Detection, Image Annotation
 
-## 🚩Team Member
+## 🚩Guidance Team Member
 We are GDSC Inha!
 
 👩🏻‍💻 정희재(Heejae Jeong) - Mobile Engineer
